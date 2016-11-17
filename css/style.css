@@ -19,3 +19,8 @@ dl {
 dt {
   border-style: solid;
 }
+ol {
+  text-align: center;
+  background-color: Green;
+  border-style: solid;
+}
