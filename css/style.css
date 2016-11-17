@@ -2,7 +2,7 @@
   font-size: 40px;
 }
 body {
-  background-color: lightblue;
+  background-color: rbg(128,128,128);
   border-style: solid;
 }
 address {
