@@ -6,9 +6,11 @@ body {
   border-style: solid;
 }
 address {
-  border-style: dashed;
-  border-width: 5px;
+  border-style: solid;
 }
 h2 {
+  border-style: solid;
+}
+dl {
   border-style: solid;
 }
