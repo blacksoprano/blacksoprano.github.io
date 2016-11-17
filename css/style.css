@@ -26,3 +26,7 @@ li {
   background-color: Green;
   border-style: solid;
 }
+p {
+  border-style: solid;
+  background-color: Green;
+}
