@@ -9,4 +9,6 @@ address {
   border-style: dashed;
   border-width: 5px;
 }
-
+h2 {
+  border-style: solid;
+}
