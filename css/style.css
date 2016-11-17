@@ -8,6 +8,7 @@ body {
 address {
   border-style: solid;
   text-align: center;
+  background-color: Green;
 }
 h2 {
   border-style: solid;
