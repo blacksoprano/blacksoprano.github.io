@@ -12,6 +12,8 @@ address {
 }
 h2 {
   border-style: solid;
+  text-align: center;
+  background-color: Green;
 }
 dl {
   border-style: solid;
