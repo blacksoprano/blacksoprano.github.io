@@ -36,4 +36,6 @@ h4 {
   border-style: solid;
   background-color: Green;
 }
-  
+# Pic1{
+    style='height: 100%; width: 100%; object-fit: contain'; 
+}
