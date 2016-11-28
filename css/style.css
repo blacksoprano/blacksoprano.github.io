@@ -2,7 +2,7 @@
   font-size: 40px;
 }
 body {
-  background-image: ("music2.png");
+  background-image: url ("music2.png");
   background-color: blue;
   border-style: solid;
 }
